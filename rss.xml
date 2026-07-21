@@ -5,7 +5,15 @@
     <link>https://arcticfox1230.github.io/rss-monitor-test/</link>
     <description>Datadog RSS monitoring test feed</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 21 Jul 2026 14:22:00 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 14:36:00 +0900</lastBuildDate>
+
+    <item>
+      <title>RSS update test 007</title>
+      <link>https://example.com/rss-test/007</link>
+      <description>New item to test detection.</description>
+      <guid isPermaLink="false">rss-test-007</guid>
+      <pubDate>Mon, 21 Jul 2026 14:36:00 +0900</pubDate>
+    </item>
 
     <item>
       <title>RSS update test 006</title>
